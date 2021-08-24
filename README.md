@@ -8,7 +8,7 @@
 **64x- 160 ohm resistors** | [EDGELEC](https://www.amazon.ca/gp/product/B07HDFK972/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 **9x 74HC595 Shift Registers** | [Iycorish](https://www.amazon.ca/gp/product/B085NW33FG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 **NPN Transistors (I used 4x PN2222 and 4x BD241 because it's all I had available)** 🐱 | [WayinTop](https://www.amazon.ca/WayinTop-General-Purpose-Transistors-Assortment/dp/B082HDWXJ3/ref=sr_1_5?dchild=1&keywords=NPN+transistor&qid=1629763783&sr=8-5)
-**20 Gauge Art Wire**
+**20 Gauge Art Wire** | [Artistic Wire](https://www.amazon.ca/gp/product/B004BNG9NE/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 **Jumper Cables**
 **Breadboard for Prototyping**
 **PCBs for Perma-soldering**
